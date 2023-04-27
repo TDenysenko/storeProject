@@ -1,0 +1,22 @@
+.form__button{
+  cursor: pointer;
+}
+
+.labels {
+  display: flex;
+  margin-bottom: 5px;
+}
+
+.text-input{
+  width: 300px;
+  margin-bottom: 10px;
+}
+
+.btn__place-order{
+    text-transform: uppercase;
+}
+
+.error {
+  color: red;
+}
+

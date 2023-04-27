@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "iPhone 14 256GB",
+    "price": "1 000",
+    "article": "83749",
+    "photo": "./productsImg/ip1.png",
+    "color": "Midnight"
+  },
+  {
+    "id": 2,
+    "title": "iPhone 14 Pro Max 128GB",
+    "price": "1 000",
+    "article": "76439",
+    "photo": "./productsImg/ip2.png",
+    "color": "Deep Purple "
+  },
+  {
+    "id": 3,
+    "title": "iPhone 14 Pro Max 128GB",
+    "price": "1 000",
+    "article": "04948",
+    "photo": "./productsImg/ip3.png",
+    "color": "Silver"
+  },
+  {
+    "id": 4,
+    "title": "iPhone 14 128GB",
+    "price": "1 000",
+    "article": "52638",
+    "photo": "./productsImg/ip4.png",
+    "color": "Starlight"
+  },
+  {
+    "id": 5,
+    "title": "iPhone 14 512GB",
+    "price": "1 000",
+    "article": "19756",
+    "photo": "./productsImg/ip5.png",
+    "color": "Blue"
+  },
+  {
+    "id": 6,
+    "title": "iPhone 14 256GB",
+    "price": "1 000",
+    "article": "29103",
+    "photo": "./productsImg/ip6.png",
+    "color": "Purple"
+  },
+  {
+    "id": 7,
+    "title": "iPhone 14 Pro 128GB",
+    "price": "1 000",
+    "article": "27493",
+    "photo": "./productsImg/ip7.png",
+    "color": "Gold"
+  },
+  {
+    "id": 8,
+    "title": "iPhone 14 Pro 256GB",
+    "price": "1 000",
+    "article": "27494",
+    "photo": "./productsImg/ip8.png",
+    "color": "Space Black"
+  },
+  {
+    "id": 9,
+    "title": "iPhone 14 Pro 512GB",
+    "price": "1 000",
+    "article": "38494",
+    "photo": "./productsImg/ip9.png",
+    "color": "Silver"
+  },
+  {
+    "id": 10,
+    "title": "iPhone 14 Pro 1TB",
+    "price": "1 000",
+    "article": "27484",
+    "photo": "./productsImg/ip10.png",
+    "color": "Silver"
+  },
+  {
+    "id": 11,
+    "title": "iPhone 13 256GB",
+    "price": "1 000",
+    "article": "89489",
+    "photo": "./productsImg/ip11.png",
+    "color": "Starlight"
+  },
+  {
+    "id": 12,
+    "title": "iPhone 13 256GB",
+    "price": "1 000",
+    "article": "00393",
+    "photo": "./productsImg/ip12.png",
+    "color": "Midnight"
+  }
+]

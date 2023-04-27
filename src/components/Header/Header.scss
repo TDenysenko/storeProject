@@ -1,0 +1,42 @@
+.header {
+  padding: 12px 80px 12px;
+  background-color: rgba(24, 24, 24, 0.96);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  &__links {
+    display: flex;
+    background-color: transparent;
+    border: none;
+    margin-left: 15px;
+    padding: 0;
+    text-decoration: none;
+  }
+  &__content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  &__counters {
+    text-align: center;
+    font-size: 13px;
+    padding: 2px;
+    font-weight: bold;
+    width: 15px;
+    height: 15px;
+    color: #fff;
+    background-color: orange;
+    border-radius: 50%;
+    transform: translateX(-15px);
+  }
+  &__cart {
+    margin-right: 8px;
+  }
+  &__logo-link {
+    text-decoration: none;
+  }
+}
